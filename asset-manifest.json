@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thecapo/tvshow-app/static/css/main.7544c121.chunk.css",
-    "main.js": "/thecapo/tvshow-app/static/js/main.4109f0be.chunk.js",
-    "main.js.map": "/thecapo/tvshow-app/static/js/main.4109f0be.chunk.js.map",
-    "runtime~main.js": "/thecapo/tvshow-app/static/js/runtime~main.0a3aa54d.js",
-    "runtime~main.js.map": "/thecapo/tvshow-app/static/js/runtime~main.0a3aa54d.js.map",
-    "static/js/2.fcc97372.chunk.js": "/thecapo/tvshow-app/static/js/2.fcc97372.chunk.js",
-    "static/js/2.fcc97372.chunk.js.map": "/thecapo/tvshow-app/static/js/2.fcc97372.chunk.js.map",
-    "index.html": "/thecapo/tvshow-app/index.html",
-    "precache-manifest.9cd3e701da9bf5f4139d1f6d054b407f.js": "/thecapo/tvshow-app/precache-manifest.9cd3e701da9bf5f4139d1f6d054b407f.js",
-    "service-worker.js": "/thecapo/tvshow-app/service-worker.js",
-    "static/css/main.7544c121.chunk.css.map": "/thecapo/tvshow-app/static/css/main.7544c121.chunk.css.map"
+    "main.css": "/tvshow-app/static/css/main.7544c121.chunk.css",
+    "main.js": "/tvshow-app/static/js/main.4109f0be.chunk.js",
+    "main.js.map": "/tvshow-app/static/js/main.4109f0be.chunk.js.map",
+    "runtime~main.js": "/tvshow-app/static/js/runtime~main.805f60e9.js",
+    "runtime~main.js.map": "/tvshow-app/static/js/runtime~main.805f60e9.js.map",
+    "static/js/2.6511fcc0.chunk.js": "/tvshow-app/static/js/2.6511fcc0.chunk.js",
+    "static/js/2.6511fcc0.chunk.js.map": "/tvshow-app/static/js/2.6511fcc0.chunk.js.map",
+    "index.html": "/tvshow-app/index.html",
+    "precache-manifest.7bcaa74878daff43923fb2daa95160c8.js": "/tvshow-app/precache-manifest.7bcaa74878daff43923fb2daa95160c8.js",
+    "service-worker.js": "/tvshow-app/service-worker.js",
+    "static/css/main.7544c121.chunk.css.map": "/tvshow-app/static/css/main.7544c121.chunk.css.map"
   }
 }
