@@ -42,7 +42,7 @@ class Home extends Component {
       this.setState({ ...state });
     } else {
       this.setState({ loading: true });
-      const endpoint = `https://api.themoviedb.org/3/tv/popular?api_key=94f5bd2de197e8a3aea80a61206fa6d9&language=en-US&page=1`;
+      const endpoint = `${API_URL}tv/popular?api_key=${API_KEY}&language=en-US&page=1`;
       this.fetchItems(endpoint);
     }
   }
@@ -57,8 +57,7 @@ class Home extends Component {
     });
 
     if (searchTerm === "") {
-      endpoint = `https://api.themoviedb.org/3/tv/popular?api_key=94f5bd2de197e8a3aea80a61206fa6d9&language=en-US&page=1`;
-      // endpoint = `${API_URL}tvshow/popular?api_key=${API_KEY}&language=en-US&page=1`;
+      endpoint = `${API_URL}tv/popular?api_key=${API_KEY}&language=en-US&page=1`;
     } else {
       endpoint = `${API_URL}search/tv?api_key=${API_KEY}&language=en-US&query=${searchTerm}`;
     }
@@ -70,7 +69,7 @@ class Home extends Component {
     this.setState({ loading: true });
 
     if (this.state.searchTerm === "") {
-      endpoint = `https://api.themoviedb.org/3/tv/popular?api_key=94f5bd2de197e8a3aea80a61206fa6d9&language=en-US&page=${this
+      endpoint = `${API_URL}tv/popular?api_key=${API_KEY}&language=en-US&page=${this
         .state.currentPage + 1}`;
     } else {
       endpoint = `${API_URL}search/tv?api_key=${API_KEY}&language=en-US&query=${
