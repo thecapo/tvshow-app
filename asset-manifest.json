@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tvApp/static/css/main.7544c121.chunk.css",
-    "main.js": "/tvApp/static/js/main.b8475a5a.chunk.js",
-    "main.js.map": "/tvApp/static/js/main.b8475a5a.chunk.js.map",
-    "runtime~main.js": "/tvApp/static/js/runtime~main.78134031.js",
-    "runtime~main.js.map": "/tvApp/static/js/runtime~main.78134031.js.map",
-    "static/js/2.04b68dbf.chunk.js": "/tvApp/static/js/2.04b68dbf.chunk.js",
-    "static/js/2.04b68dbf.chunk.js.map": "/tvApp/static/js/2.04b68dbf.chunk.js.map",
-    "index.html": "/tvApp/index.html",
-    "precache-manifest.6191535d7590f66b44172ba052c26174.js": "/tvApp/precache-manifest.6191535d7590f66b44172ba052c26174.js",
-    "service-worker.js": "/tvApp/service-worker.js",
-    "static/css/main.7544c121.chunk.css.map": "/tvApp/static/css/main.7544c121.chunk.css.map"
+    "main.css": "/tvshow-app/static/css/main.7544c121.chunk.css",
+    "main.js": "/tvshow-app/static/js/main.b8475a5a.chunk.js",
+    "main.js.map": "/tvshow-app/static/js/main.b8475a5a.chunk.js.map",
+    "runtime~main.js": "/tvshow-app/static/js/runtime~main.805f60e9.js",
+    "runtime~main.js.map": "/tvshow-app/static/js/runtime~main.805f60e9.js.map",
+    "static/js/2.6511fcc0.chunk.js": "/tvshow-app/static/js/2.6511fcc0.chunk.js",
+    "static/js/2.6511fcc0.chunk.js.map": "/tvshow-app/static/js/2.6511fcc0.chunk.js.map",
+    "index.html": "/tvshow-app/index.html",
+    "precache-manifest.3ea8f2eb3982a24f26627d436544aec3.js": "/tvshow-app/precache-manifest.3ea8f2eb3982a24f26627d436544aec3.js",
+    "service-worker.js": "/tvshow-app/service-worker.js",
+    "static/css/main.7544c121.chunk.css.map": "/tvshow-app/static/css/main.7544c121.chunk.css.map"
   }
 }
