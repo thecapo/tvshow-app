@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://thecapo.github.io/tvApp",
+  "homepage": "https://thecapo.github.io/tvshow-app",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
