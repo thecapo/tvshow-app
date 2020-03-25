@@ -41,10 +41,10 @@ class Home extends Component {
       const state = JSON.parse(localStorage.getItem("HomeState"));
       this.setState({ ...state });
     } else {
-      this.setState({ loading: true });
-      const endpoint = `${API_URL}tv/popular?api_key=${API_KEY}&language=en-US&page=1`;
-      this.fetchItems(endpoint);
-    }
+             this.setState({ loading: true });
+             const endpoint = `${API_URL}tv/popular?api_key=${API_KEY}&language=en-US&page=1`;
+             https: this.fetchItems(endpoint);
+           }
   }
 
   searchItems = searchTerm => {
